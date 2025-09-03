@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio Bio Data</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: #f4f4f9;
+color: #333;
+}
+.container {
+width: 80%;
+margin: auto;
+padding: 20px;
+}
+header {
+text-align: center;
+padding: 20px;
+}
+header img {
+width: 120px;
+height: 120px;
+border-radius: 50%;
+}
+header h1 {
+margin: 10px 0 5px;
+}
+header p {
+font-style: italic;
+color: #555;
+}
+section {
+background: white;
+padding: 20px;
+margin: 20px 0;
+border-radius: 10px;
+box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+h2 {
+color: #444;
+border-bottom: 2px solid #ddd;
+padding-bottom: 5px;
+}
+ul {
+list-style: none;
+padding: 0;
+}
+ul li {
+margin: 8px 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+<img src="https://via.placeholder.com/120" alt="Profile Picture">
+<h1>Thazee</h1>
+<p>Web Developer | Designer | Coder</p>
+</header>
+
+<section>
+<h2>Contact Information</h2>
+<ul>
+<li><strong>Email:</strong> thazeeshafath@gmail.com</li>
+<li><strong>Phone:</strong> +91 8148635242</li>
+<li><strong>Address:</strong> cuddalore, India</li>
+</ul>
+</section>
+
+<section>
+<h2>About Me</h2>
+<p>I am a passionate web developer with experience in building responsive and modern websites. I love coding and continuously learning new technologies.</p>
+</section>
+
+<section>
+<h2>Education</h2>
+<ul>
+<li><strong>B.Sc Computer Science</strong> - XYZ University (2020-2023)</li>
+<li><strong>Higher Secondary</strong> - ABC School (2018-2020)</li>
+</ul>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li>HTML, CSS, JavaScript</li>
+<li>React, Node.js</li>
+<li>Python, Java</li>
+<li>UI/UX Design</li>
+</ul>
+</section>
+</div>
+</body
